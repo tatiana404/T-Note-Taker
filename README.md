@@ -28,9 +28,11 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Mock-Up
 
 Images:
-
 <img width="1126" alt="notes1" src="https://github.com/tatiana404/T-Note-Taker/assets/65060199/7b4d9a64-96eb-4172-acd4-e9304289da89">
 <img width="1109" alt="notes2" src="https://github.com/tatiana404/T-Note-Taker/assets/65060199/a67edd4e-6c41-4591-9792-9511985f9cba">
+
+Recording:
+ https://drive.google.com/file/d/1hzE6DpSUGPwt1yR20b6ZK7ojfhwrRGaR/view
 
 
 
